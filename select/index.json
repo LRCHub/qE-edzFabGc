@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Transparent Blue",
+  "base_artist": "Nornis",
+  "createdAt": "2026-02-14T03:24:19.768672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Transparent Blue",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/01_Transparent_Blue_Nornis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Transparent Blue (instrumental)",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/02_Transparent_Blue_(instrumental)_Nornis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Define A Transparent Dream",
+      "artist": "The Olivia Tremor Control",
+      "has_synced": true,
+      "path": "select/03_Define_A_Transparent_Dream_The_Olivia_Tremor_Control.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Invisible (Transparent Mix) [2016 Remastered]",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/04_Invisible_(Transparent_Mix)_[2016_Remastered]_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Invisible (Transparent mix)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/05_Invisible_(Transparent_mix)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Transparent Things",
+      "artist": "Fujiya & Miyagi",
+      "has_synced": true,
+      "path": "select/06_Transparent_Things_Fujiya_&_Miyagi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Transparent",
+      "artist": "Elysion",
+      "has_synced": true,
+      "path": "select/07_Transparent_Elysion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Transparent (2012 Remastered Version)",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/08_Transparent_(2012_Remastered_Version)_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Transparent",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/09_Transparent_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Transparent",
+      "artist": "The Servants",
+      "has_synced": false,
+      "path": "select/10_Transparent_The_Servants.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Transparent Radiation (Flashback)",
+      "artist": "Spacemen 3",
+      "has_synced": false,
+      "path": "select/11_Transparent_Radiation_(Flashback)_Spacemen_3.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Transparent",
+      "artist": "In Flames",
+      "has_synced": true,
+      "path": "select/12_Transparent_In_Flames.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Transparent Parents",
+      "artist": "Quarashi",
+      "has_synced": true,
+      "path": "select/13_Transparent_Parents_Quarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Transparent Blue",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_Transparent_Blue_Nornis.txt"
+    }
+  ]
+}
